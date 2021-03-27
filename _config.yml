@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: quantile.dev
 author: Dilnavas Roshan
-description: Minimal, responsive Jekyll theme for hackers.
+description: A computer programming blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://quantile.dev" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
