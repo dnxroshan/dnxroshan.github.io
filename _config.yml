@@ -16,7 +16,7 @@
 title: quantile.dev
 # author: Yous
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/qauntile.dev" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://quantile.dev" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
