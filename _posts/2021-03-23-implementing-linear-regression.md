@@ -12,5 +12,7 @@ Linear regression is perhaps one of the simplest of machine learning algorithms.
 
 I want to keep this part short, so I am not going to answer questions like what is machine learning and what is superviced learning. You can look into other resources to find answer to this question. We'll jump stright into the algorithm.
 
-The hypothesis function of linear regression algorithm is given by
-$$h(x)=\[\sum_{i=0}{n}\theta_i x_i]$$
+The hypothesis function of linear regression algorithm is given by  
+$$h(x)=\[ \sum_{i=0}^{n}\theta_i x_i \] $$
+
+Where $$n$$ is the number of features
